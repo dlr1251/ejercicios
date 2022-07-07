@@ -1,0 +1,13 @@
+.wrapper {
+    background-color: blue;
+    color: white;
+    display: grid;
+    grid-template-columns: 2fr 3fr 2fr;
+    .title {
+        font-size: 3rem;
+
+    }
+    .description {
+        font-weight: 300;
+    }
+}
